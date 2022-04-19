@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="bill_amount_text">Bill Amount:</string>
+    <string name="bill_amount_hint_text">Cost of service</string>
+    <string name="service_question_text">How was the service?</string>
+    <string name="tip_option_1">Incredible! (25%)</string>
+    <string name="tip_option_2">Excellent (20%)</string>
+    <string name="tip_option_3">Good (15%)</string>
+    <string name="tip_option_4">Bad (10%)</string>
+    <string name="tip_option_5">N/A (0%)</string>
+    <string name="round_tip_text">Round tip?</string>
+    <string name="calculate_text">Calculate</string>
+    <string name="tip_amount_text">Tip Amount</string>
+    <string name="total_amount_text">Total Amount</string>
+</resources>
